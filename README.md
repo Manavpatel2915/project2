@@ -1,2 +1,3 @@
 # first-demo-project
-first demo project git and github class
+This is a first dmeo for git and github class.
+
